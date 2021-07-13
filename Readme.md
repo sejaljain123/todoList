@@ -42,8 +42,14 @@ It contains mainly three Components Sign In , Register , Todo.
 
        Update Todo
 
-     ![todo](https://user-images.githubusercontent.com/56127301/125493105-e009109a-fd64-4f3f-81fc-c95b13fa0e98.png)
+    ![todolist](https://user-images.githubusercontent.com/56127301/125494641-ed95f72c-3734-48d1-b27d-9cc6125739c9.png)
 
+-Update Todo 
+
+        A user can update todo here.
+        
+   ![update](https://user-images.githubusercontent.com/56127301/125494881-a69c5889-3554-4108-acd8-3382365f9024.png)
+  
 # Server
 
 It is made with NestJs using Typescript
